@@ -9,6 +9,8 @@ body{
   background-color: white;
 }
 
+/* estilizando de acordo com o figma o h1 */
+
 p, a, h1{
   font-family: "Lexend";
     font-size: 15px;
