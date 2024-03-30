@@ -40,7 +40,7 @@
     margin-right: 1%;
   }
 
-  
+  /* Ajuste de tela */
 @media (min-width: 276px){
     .cabecalho__container{
         flex-wrap: wrap;
