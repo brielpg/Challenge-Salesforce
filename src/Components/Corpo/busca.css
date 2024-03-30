@@ -37,6 +37,8 @@
     margin-left: 20px;
 }
 
+/* estilização da parte de input, sendo responsivo e de acordo com o figma */
+
 .pesquisar__img {cursor: pointer;}
 /* Ajuste de Tela */
 @media (min-width: 276px){
