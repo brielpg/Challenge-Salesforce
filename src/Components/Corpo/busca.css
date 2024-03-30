@@ -5,6 +5,8 @@
     align-items: center;
 }
 
+/* sepramos em divs para facilitar a estilização */
+
 #divBusca h1{
     color: rgb(109, 109, 109);
     font-weight: bolder;
